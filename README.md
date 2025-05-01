@@ -1,15 +1,16 @@
+# StackSquad – Full Stack Team Management Web App
+
+StackSquad is a modern MERN stack web application designed to manage student team members effectively. It allows you to add members, store personal/project details, upload images and documents, and view individual profiles with ease.
+
+---
+
+
 ![image](https://github.com/user-attachments/assets/18275d23-9c86-4ac8-9306-a102a7a231a7)
 
 ![image](https://github.com/user-attachments/assets/debbb2ce-691a-46b1-bad1-3082aec5aa30)
 
 ![image](https://github.com/user-attachments/assets/c33e1fbb-93c2-4b7a-ab3a-3a8d8873b6e1)
 
-
-# StackSquad – Full Stack Team Management Web App
-
-StackSquad is a modern MERN stack web application designed to manage student team members effectively. It allows you to add members, store personal/project details, upload images and documents, and view individual profiles with ease.
-
----
 
 ## 🚀 Project Description
 
